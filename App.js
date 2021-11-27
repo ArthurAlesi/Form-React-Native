@@ -31,7 +31,7 @@ export default function App() {
         <View style={styles.styleButton}>
           <Button
             style={styles.button}
-            title="Press me"
+            title="login"
             onPress={() => Alert.alert('Simple Button pressed')}
           />
         </View>
